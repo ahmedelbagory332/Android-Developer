@@ -51,7 +51,7 @@ expert team of developers Thereby helping to drive my career progression to more
   </tr>
    <tr>
     <td>Dealing with Api (Retrofit – volley)</td>
-    <td>MVVM – MVC</td>
+    <td>MVVM – MVP</td>
     <td>Broadcast Receiver</td>
      <td>SQLite Database</td>
   </tr>
