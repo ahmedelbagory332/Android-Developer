@@ -32,7 +32,7 @@ expert team of developers Thereby helping to drive my career progression to more
 
 
 ## WORK EXPERIENCE
-### - Android instructor (Sept.2020 – present)
+### - Android instructor (Sept.2022 – present)
  - It is a collaboration between Orange Digital Center and AMIT Learning.
  - I was selected to be an Android instructor to Android and Java course. 
  #### The content that was explained in this course:
@@ -61,7 +61,7 @@ expert team of developers Thereby helping to drive my career progression to more
  </table>
 
  
-### - Freelancer Android Apps (Jun.2020 – present)
+### - Freelancer Android Apps (Jun.2020 – Aug.2022)
 1 - National Company for protective cultivation (Dec.2021 - Feb.2022)(While performing my military service)
 - This project serves human resources management by:
   - Time Management: Android Application to record late workers data by scanning their qr code.
