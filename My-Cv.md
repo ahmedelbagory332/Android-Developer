@@ -32,6 +32,35 @@ expert team of developers Thereby helping to drive my career progression to more
 
 
 ## WORK EXPERIENCE
+### - Android instructor (Sept.2020 – present)
+ - It is a collaboration between Orange Digital Center and AMIT Learning.
+ - I was selected to be an Android instructor to Android and Java course. 
+ #### The content that was explained in this course:
+ <table>
+  <tr>
+    <td>Java</td>
+    <td>OOP Java</td>
+    <td>Android UI</td>
+    <td>Intents</td>
+  </tr>
+   <tr>
+    <td>Services</td>
+    <td>Content Provider</td>
+    <td>Notifications</td>
+    <td>Android Google Maps</td>
+  </tr>
+   <tr>
+    <td>Dealing with Api (Retrofit – volley)</td>
+    <td>MVVM – MVC</td>
+    <td>Broadcast Receiver</td>
+     <td>SQLite Database</td>
+  </tr>
+   <tr>
+    <td>Android Testing</td>
+  </tr>
+ </table>
+
+ 
 ### - Freelancer Android Apps (Jun.2020 – present)
 1 - National Company for protective cultivation (Dec.2021 - Feb.2022)(While performing my military service)
 - This project serves human resources management by:
