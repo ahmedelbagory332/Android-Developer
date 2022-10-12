@@ -32,7 +32,12 @@ expert team of developers Thereby helping to drive my career progression to more
 
 
 ## WORK EXPERIENCE
-### - Android instructor (Sept.2022 – present)
+### - Flutter Developer (Oct.2022– present) at IT Stellar
+- Enqly : a logistics application:
+   - Design application from scratch.
+   - Participate with backend developers, and product owner to identify new features.
+   - Build reusable code and APIs for future use.
+### - Android instructor (Sept.2022 – Oct.2022)
  - It is a collaboration between Orange Digital Center and AMIT Learning.
  - I was selected to be an Android instructor to Android and Java course. 
  #### The content that was explained in this course:
