@@ -32,7 +32,8 @@ expert team of developers Thereby helping to drive my career progression to more
 
 
 ## WORK EXPERIENCE
-### - Flutter Developer (Oct.2022– present) at IT Stellar
+### - Native Android Developer at Rubikans (Dec.2022 – Present)
+### - Flutter Developer at IT Stellar (Oct.2022 – Dec.2022) 
 - Enqly : a logistics application:
    - Design application from scratch.
    - Participate with backend developers, and product owner to identify new features.
@@ -84,28 +85,27 @@ by allow doctors to get the all information about their patients so it saves tim
 
 <table>
   <tr>
-    <td>C++</td>
+    <td>kotlin</td>
+    <td>Clean architecture</td>
+    <td>Jetpack compose</td>
     <td>Java</td>
-    <td>Kotlin</td>
+  </tr>
+   <tr>
+    <td>MVVM</td>
+    <td>Co-routines</td>
+    <td>Dagger-hilt</td>
+    <td>Room Database</td>
+  </tr>
+   <tr>
+    <td>Rest Api</td>
+    <td>Firebase services</td>
+    <td>Navigation Component</td>
     <td>Dart</td>
   </tr>
    <tr>
-    <td>OOP</td>
-    <td>Flutter</td>
-    <td>FCM</td>
-    <td>Dagger-hilt</td>
-  </tr>
-   <tr>
-    <td>Co-routines</td>
-    <td>Android Architecture Patterns</td>
-    <td>Navigation Component</td>
-    <td>Firebase Services</td>
-  </tr>
-   <tr>
-      <td>ROOM Database</td>
-     <td>REST API</td>
-     <td>MySQL</td>
+      <td>Flutter</td>
      <td>PHP</td>
+     <td>MySQL</td>
   </tr>
  </table>
 
@@ -119,17 +119,14 @@ by allow doctors to get the all information about their patients so it saves tim
 - Bego Chat is chat application in Kotlin and Firebase with the following features: user status like typing,
  online and last seen, push notification with FCM, PHP and retrofit with
 MVVM pattern and making video and voice calls using agora sdk. [Check it](https://github.com/ahmedelbagory332/Bego_Chat)
+- For Compose version with clean architecture  [Check it](https://github.com/ahmedelbagory332/Compose-ChatApp)
+
+### Caching data app with clean architecture
+- Android Caching Project with Kotlin and MVVM by clean architecture. [Check it](https://github.com/ahmedelbagory332/Caching_Data_With_Clean_Architecture)
+
+### Notifications
+- sample project on type of notification. [Check it](https://github.com/ahmedelbagory332/Notification)
 
 ###  Full chat flutter app
 - chat application in flutter and Firebase with the following features: user status like
 typing, online and last seen, push notification with FCM, PHP and dio. [Check it](https://github.com/ahmedelbagory332/full_chat_flutter_app)
-
-### Caching data app
-- Sample caching data app with hilt, co-routines, room, retrofit and mvvm. [Check it](https://github.com/ahmedelbagory332/Caching-data-app)
-
-### Navigation-Component
-- Sample app on navigation component with different types like navigation drawer,
-bottom navigation view, view pager and Bottom Sheet. [Check it](https://github.com/ahmedelbagory332/Navigation-Component)
-
-### Notifications
-- sample project on type of notification. [Check it](https://github.com/ahmedelbagory332/Notification)
