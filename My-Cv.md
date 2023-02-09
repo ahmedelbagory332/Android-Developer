@@ -27,12 +27,17 @@ expert team of developers Thereby helping to drive my career progression to more
    - Graduation Project: Website and Mobile App for Bio Informatics Department.
    - Grade: Good.
 
-- [Certified](https://github.com/ahmedelbagory332/NTL-Certification/blob/main/NTL-Certification.jpg) from NTL program (Oct.2019).
-- Android Developer [Nanodegree course from Udacity](https://graduation.udacity.com/confirm/ND2DDMQP) (Aug.2019).
-
-
 ## WORK EXPERIENCE
 ### - Native Android Developer at Rubikans (Dec.2022 – Present)
+- DevertLab CRM application for managing relations between the company and its employees:
+   - refactoring the code to use the latest technology in Android.
+   - refactoring project structure.
+   
+- 4eShopping: e-commerce application in the medical field between the parent company and
+pharmacists to order medicines and all medical supplies
+
+- RubikClinic: A system to connect medical clinics and pharmacists with doctors and patients
+
 ### - Flutter Developer at IT Stellar (Oct.2022 – Dec.2022) 
 - Enqly : a logistics application:
    - Design application from scratch.
@@ -80,6 +85,15 @@ added a chat system between customer and the seller to satisfy customer needs.
 3 - Doctor Smart Note (Jul.2020 - Feb.2021)
 - This project serves hospital management system
 by allow doctors to get the all information about their patients so it saves time and effort to get the patient's information.
+
+## Certifications
+
+- [Certified](https://github.com/ahmedelbagory332/NTL-Certification/blob/main/NTL-Certification.jpg) from NTL program (Oct.2019).
+- Android Developer [Nanodegree course from Udacity](https://graduation.udacity.com/confirm/ND2DDMQP) (Aug.2019).
+- [Advanced Programming in Kotlin from Meta](https://www.coursera.org/account/accomplishments/verify/VPEJM5W7TW3F) (Jan.2023).
+- [Programming Fundamentals in Kotlin from meta](https://www.coursera.org/account/accomplishments/verify/8MR7DCCRBQ95) (Dec.2022).
+- [Version Control from Meta](https://www.coursera.org/account/accomplishments/verify/T9J4397J8RLL) (Dec.2022).
+
 
 ## Skills
 
