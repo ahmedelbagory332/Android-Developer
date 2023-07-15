@@ -28,6 +28,13 @@ expert team of developers Thereby helping to drive my career progression to more
    - Grade: Good.
 
 ## WORK EXPERIENCE
+
+### - Native Android Developer at Nexta (Jul.2023 – Present)
+ - Implemented user interfaces that engaged multiple senses and produced immersive experiences.
+ - Used third-party libraries, custom libraries and APIs to develop new applications.
+ - Consistently used Android SDK to produce highly effective and nuanced content.
+ - Collaborated with cross-functional teams to define and design new features.
+   
 ### - Native Android Developer at Rubikans (Dec.2022 – Present)
 - DevertLab CRM application for managing relations between the company and its employees:
    - refactoring the code to use the latest technology in Android.
