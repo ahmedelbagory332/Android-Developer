@@ -30,10 +30,15 @@ expert team of developers Thereby helping to drive my career progression to more
 ## WORK EXPERIENCE
 
 ### - Native Android Developer at Nexta (Jul.2023 – Present)
- - Implemented user interfaces that engaged multiple senses and produced immersive experiences.
+ - Implemented user interfaces that engaged multiple senses and produced immersive experiences. [View on the store](https://play.google.com/store/apps/details?id=com.nexta.nexta)
  - Used third-party libraries, custom libraries and APIs to develop new applications.
  - Consistently used Android SDK to produce highly effective and nuanced content.
  - Collaborated with cross-functional teams to define and design new features.
+
+### - Flutter Developer at Talbinah (part time) (Jul.2023 – Present)
+  - A medical application for psychological consultations consisting of two applications: 
+       - application for the user [View on the store](https://play.google.com/store/apps/details?id=com.talbinah.talbinah) 
+       - application for the doctor [View on the store](https://play.google.com/store/apps/details?id=com.talbinah.doctor) 
    
 ### - Native Android Developer at Rubikans (Dec.2022 – Present)
 - DevertLab CRM application for managing relations between the company and its employees:
@@ -41,7 +46,7 @@ expert team of developers Thereby helping to drive my career progression to more
    - refactoring project structure.
    
 - 4eShopping: e-commerce application in the medical field between the parent company and
-pharmacists to order medicines and all medical supplies
+pharmacists to order medicines and all medical supplies [View on the store](https://play.google.com/store/apps/details?id=rubikans.eShopping)
 
 - RubikClinic: A system to connect medical clinics and pharmacists with doctors and patients
 
@@ -133,6 +138,26 @@ by allow doctors to get the all information about their patients so it saves tim
 
 ## Projects
 
+### News App
+- news app that allows users to get headlines based on their preferences and search articles.[Check it](https://github.com/ahmedelbagory332/News-App)
+     - Technology used: 
+         - Code Architecture (MVVM) 
+         - Jetpack Compose 
+         - Clean Architecture 
+         - Modularization 
+         - Flow & StateFlow to give view the data and notify it when a change occurs. 
+         - Dagger-hilt to handle dependency injection. 
+         - Co-routines to deal with threads. 
+         - Retrofit2 & OkHttp3 to handle apis requests. 
+         - Room DataBase to cache the data and display it in case there is no internet 
+         - Coil to load images from internet. 
+
+### Movie App
+- Simple android app to show movies using jetpack-compose and clean-architecture. [Check it](https://github.com/ahmedelbagory332/movie_app)
+
+### Caching data app with clean architecture
+- Android Caching Project with Kotlin and MVVM by clean architecture. [Check it](https://github.com/ahmedelbagory332/Caching_Data_With_Clean_Architecture)
+
 ### Waffar
 - e-commerce app by navigation component and mvvm with retrofit,hilt, co-routines. [Check it](https://github.com/ahmedelbagory332/Waffar)
 
@@ -141,12 +166,6 @@ by allow doctors to get the all information about their patients so it saves tim
  online and last seen, push notification with FCM, PHP and retrofit with
 MVVM pattern and making video and voice calls using agora sdk. [Check it](https://github.com/ahmedelbagory332/Bego_Chat)
 - For Compose version with clean architecture  [Check it](https://github.com/ahmedelbagory332/Compose-ChatApp)
-
-### Caching data app with clean architecture
-- Android Caching Project with Kotlin and MVVM by clean architecture. [Check it](https://github.com/ahmedelbagory332/Caching_Data_With_Clean_Architecture)
-
-### Notifications
-- sample project on type of notification. [Check it](https://github.com/ahmedelbagory332/Notification)
 
 ###  Full chat flutter app
 - chat application in flutter and Firebase with the following features: user status like
