@@ -29,13 +29,15 @@ expert team of developers Thereby helping to drive my career progression to more
 
 ## WORK EXPERIENCE
 
-### - Native Android Developer at Nexta (Jul.2023 – Present)
+### - Senior Mobile Developer at Tenjaz(Dec.2023 – Present)
+ - Aoun: Transform your legal practice with Aoun, CRM app for lawyers and legal professionals.
+### - Native Android Developer at Nexta (Jul.2023 – Dec.2023)
  - Implemented user interfaces that engaged multiple senses and produced immersive experiences. [View on the store](https://play.google.com/store/apps/details?id=com.nexta.nexta)
  - Used third-party libraries, custom libraries and APIs to develop new applications.
  - Consistently used Android SDK to produce highly effective and nuanced content.
  - Collaborated with cross-functional teams to define and design new features.
 
-### - Flutter Developer at Talbinah (part time) (Jul.2023 – Present)
+### - Flutter Developer at Talbinah (part time) (Jul.2023 – Mar.2024)
   - A medical application for psychological consultations consisting of two applications: 
        - application for the user [View on the store](https://play.google.com/store/apps/details?id=com.talbinah.talbinah) 
        - application for the doctor [View on the store](https://play.google.com/store/apps/details?id=com.talbinah.doctor) 
@@ -118,25 +120,28 @@ by allow doctors to get the all information about their patients so it saves tim
   </tr>
    <tr>
     <td>MVVM</td>
+    <td>MVI</td>
+    <td>KMM</td>
     <td>Co-routines</td>
+  </tr>
+   <tr>
     <td>Dagger-hilt</td>
     <td>Room Database</td>
-  </tr>
-   <tr>
     <td>Rest Api</td>
-    <td>Firebase services</td>
     <td>Navigation Component</td>
-    <td>Dart</td>
   </tr>
    <tr>
-      <td>Flutter</td>
-     <td>PHP</td>
-     <td>MySQL</td>
+   <td>Flutter</td>
+    <td>Dart</td>
+    <td>Firebase services</td>
   </tr>
  </table>
 
 
 ## Projects
+
+### Caching data app with clean architecture
+- Android Caching Project with Kotlin and MVVM by clean architecture .[Check it](https://github.com/ahmedelbagory332/Caching_Data_With_Clean_Architecture)
 
 ### News App
 - news app that allows users to get headlines based on their preferences and search articles.[Check it](https://github.com/ahmedelbagory332/News-App)
@@ -158,8 +163,8 @@ by allow doctors to get the all information about their patients so it saves tim
 ### Caching data app with clean architecture
 - Android Caching Project with Kotlin and MVVM by clean architecture. [Check it](https://github.com/ahmedelbagory332/Caching_Data_With_Clean_Architecture)
 
-### Waffar
-- e-commerce app by navigation component and mvvm with retrofit,hilt, co-routines. [Check it](https://github.com/ahmedelbagory332/Waffar)
+### New App MVI
+- news app that allows users to get headlines based on their preferences and search articles. [Check it](https://github.com/ahmedelbagory332/News-App-MVI)
 
 ###  Bego Chat
 - Bego Chat is chat application in Kotlin and Firebase with the following features: user status like typing,
@@ -167,6 +172,5 @@ by allow doctors to get the all information about their patients so it saves tim
 MVVM pattern and making video and voice calls using agora sdk. [Check it](https://github.com/ahmedelbagory332/Bego_Chat)
 - For Compose version with clean architecture  [Check it](https://github.com/ahmedelbagory332/Compose-ChatApp)
 
-###  Full chat flutter app
-- chat application in flutter and Firebase with the following features: user status like
-typing, online and last seen, push notification with FCM, PHP and dio. [Check it](https://github.com/ahmedelbagory332/full_chat_flutter_app)
+### KMM Super App
+- KMM Super App is app contain most of feature will any mobile developer will need it. [Check it](https://github.com/ahmedelbagory332/Kmm_Super_App)
